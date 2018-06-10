@@ -12,8 +12,8 @@ Records my current progress for this course. Currently in the first course (Repr
 - [ ] Reading
 
 ## Week-2
-- [ ] Video lectures
-- [ ] Assignments
-- [ ] Programming assignments
+- [x] Video lectures
+- [x] Assignments
+- [x] Programming assignments
 - [ ] Note organising
 - [ ] Reading
