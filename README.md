@@ -17,3 +17,10 @@ Records my current progress for this course. Currently in the first course (Repr
 - [x] Programming assignments
 - [ ] Note organising
 - [ ] Reading
+
+## Week-3
+- [x] Video lectures
+- [x] Assignments
+- [x] Programming assignments
+- [ ] Note organising
+- [ ] Reading
